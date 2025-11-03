@@ -44,8 +44,8 @@
  
 <p>
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoying programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to write code and learning new languages<br/><br/>
 
 </p>
 
