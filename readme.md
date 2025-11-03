@@ -39,7 +39,7 @@
   </samp>
 </p>
 
- # About me
+
 ...
 
 <!-- About Section -->
