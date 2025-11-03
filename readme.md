@@ -39,9 +39,6 @@
   </samp>
 </p>
 
-
-...
-
 <!-- About Section -->
  # About me
  
