@@ -13,17 +13,16 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=aahilrahman">
-  <img align="right" src="https://komarev.com/ghpvc/?username=aahilrahman&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=aahilrahman&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
+<br clear="all"> 
 
-[![wakatime](https://wakatime.com/badge/user/a5b3958b-6b0e-4a66-8e95-74d87ce1b0dd.svg)](https://wakatime.com/@a5b3958b-6b0e-4a66-8e95-74d87ce1b0dd)
-
-<!-- Intro  -->
-<div align="center">
+<div align="center"> 
     
     <h3>
-        <samp>&gt; Hey There!, I am <b>Aahil</b></samp>
+        <samp>>> Hey There!, I am <b>Aahil</b></samp>
     </h3>
     
     <img width="350" src="/assets/banner.jpg" alt="Banner"/>
@@ -32,11 +31,12 @@
         <samp>
             <a>「 👋 」</a>
             <br>
-            「 I am a full stack web application & app developer from <b>Bangladesh & the UK</b> 」
+            I am a full stack web application & app developer from <b>Bangladesh & the UK</b>
             <br>
             <br>
         </samp>
     </p>
+
 </div>
 
 <!-- About Section -->
