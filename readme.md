@@ -20,12 +20,13 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a>Aahil</a></b>
+        </samp>
+</h3>
+
 <p align="center">
-    <h3 align="center">
-        <samp>&gt; Hey There!, I am
-            <b><a>Aahil</a></b>
-        </samp>
-    </h3>
     <img width="350" src="/assets/banner.jpg" alt="Banner"/>
 </p>
 
