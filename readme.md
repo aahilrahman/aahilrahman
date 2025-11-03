@@ -26,7 +26,7 @@
         </samp>
 </h3>
 
-   <img align="center" width="350" src="/assets/banner.jpg" alt="Banner" />
+<img align="center" width="350" src="/assets/banner.jpg" alt="Banner"/>
 
 <p align="center"> 
   <samp>
