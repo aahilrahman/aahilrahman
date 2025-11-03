@@ -39,20 +39,6 @@
   </samp>
 </p>
 
-<!-- About Section -->
- # About me
- 
-<p>
-  
- ✌️ &emsp; Enjoying programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to write code and learning new languages<br/><br/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
